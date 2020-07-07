@@ -13,7 +13,7 @@ tar zxvf nlg-data.tar.gz
 export CURRICULA_DATA=`pwd`/nlg-data
 ```
 
-Start jupyter notebook:
+# Start Jupyter Notebook:
 
 ```
 cd path/to/dialog_curriculum/checkout/
